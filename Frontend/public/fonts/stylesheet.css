@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('SofiaPro.eot');
+    src: url('SofiaPro.eot?#iefix') format('embedded-opentype'),
+        url('SofiaPro.woff2') format('woff2'),
+        url('SofiaPro.woff') format('woff'),
+        url('SofiaPro.ttf') format('truetype'),
+        url('SofiaPro.svg#SofiaPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SFNewRepublic';
+    src: url('sf-new-republic.bold.ttf') format('truetype');
+    /* Add additional font styles if needed (e.g., font-weight, font-style) */
+  }
